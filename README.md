@@ -1,0 +1,2 @@
+# sitemap
+sitemap test GOT
